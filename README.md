@@ -1,4 +1,5 @@
 📊 Superstore Sales Dashboard – Power BI
+
 📝 Overview
 Welcome to my Superstore Sales Dashboard project! This interactive Power BI dashboard provides in-depth insights into sales performance, customer segments, and revenue trends across different regions and categories.
 
